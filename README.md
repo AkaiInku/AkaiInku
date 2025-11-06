@@ -1,6 +1,6 @@
 <div align="center">
 
-# :alien: Welcome, I'm Damian Quintero
+<h1> :alien: Welcome, I'm Damian Quintero </h1>
 
 ## FrontEnd Dev. | Platzy and Cesde student
 
