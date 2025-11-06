@@ -1,16 +1,15 @@
 # :alien: Welcome, I'm Damian Quintero
 ### FrontEnd Dev. | Platzy and Cesde student.
 
-:computer: I’m a programming technician
+**:computer:** I’m a programming technician
 
-:city_sunset:Location: Medellín, Colombia
+**:city_sunset:Location:** Medellín, Colombia
 
-:briefcase: Current position: ABA Tech  
+**:briefcase: Current position:** ABA Tech  
 
-:seedling: Currently learning: Software development,
-frontend technologies, and automation tools  
+**:seedling: Currently learning:** Software development,frontend technologies, and automation tools  
 
-:space_invader: Fun fact: I'm passionate about gastronomy and video games
+**:space_invader:** Fun fact: I'm passionate about gastronomy and video games
 
 <table>
   <tr>
