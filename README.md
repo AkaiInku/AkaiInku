@@ -1,13 +1,15 @@
+<main align="center">
+
 # :alien: Welcome, I'm Damian Quintero
 
 ## FrontEnd Dev. | Platzy and Cesde student
 
 <section>
-  <p>💻 <strong style="font-size: 20px;">I’m a programming technician</strong></p>
-  <p>🌇 <strong style="font-size: 20px;">Location:</strong> Medellín, Colombia</p>
-  <p>💼 <strong style="font-size: 20px;">Current position:</strong> ABA Tech</p>
-  <p>🌱 <strong style="font-size: 20px;">Currently learning:</strong> Software development, frontend technologies, and automation tools</p>
-  <p>👾 <strong style="font-size: 20px;">Fun fact:</strong> I'm passionate about gastronomy and video games</p>
+  <h3>💻 I'm a programming technician</h3>
+  <h3>🌇 Location: Medellín, Colombia</h3>
+  <h3>💼 Current position: ABA Tech</h3>
+  <h3>🌱 Currently learning: Software development, frontend technologies, and automation tools</h3>
+  <h3>👾 Fun fact: I'm passionate about gastronomy and video games</h3>
 </section>
 
 <table>
@@ -56,3 +58,5 @@ Portfolio: *Under construction...*
 ## Top Languages  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkaiInku&layout=compact&theme=tokyonight)
+
+</main>
