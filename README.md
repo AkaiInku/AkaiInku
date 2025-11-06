@@ -14,7 +14,7 @@ frontend technologies, and automation tools
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="40%">
       <img src="./assets/damianImagen.png" alt="Damian Quintero working" width="100%">
     </td>
     <td width="50%">
