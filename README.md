@@ -9,13 +9,13 @@
   <p><strong>🌱 Currently learning:</strong> Software development, frontend technologies, and automation tools</p>
   <p><strong>👾 Fun fact:</strong> I'm passionate about gastronomy and video games<p>
 </section>
-<h3 style="text-align: center;">Favorite Languages</h3>
 <table>
   <tr>
     <td width="50%">
       <img src="./assets/damianImagen.png"alt="Damian Quintero working" width="100%">
     </td>
     <td width="50%">
+<h3>Favorite Languages</h3>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
