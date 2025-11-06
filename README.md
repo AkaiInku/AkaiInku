@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1> :alien: Welcome, I'm Damian Quintero </h1>
+<h1>:alien: Welcome, I'm Damian Quintero </h1>
 
-## FrontEnd Dev. | Platzy and Cesde student
+<h2> FrontEnd Dev. | Platzy and Cesde student </h2>
 
 <section>
   <h3>💻 I'm a programming technician</h3>
@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="./assets/damianImagen.png"alt="Damian Quintero working" width="100%">
+      <img src="./assets/damianImagen.png" alt="Damian Quintero working" width="100%">
     </td>
     <td width="50%">
 <h3>Favorite Languages</h3>
