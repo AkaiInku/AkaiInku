@@ -1,4 +1,4 @@
-<main align="center">
+<div align="center">
 
 # :alien: Welcome, I'm Damian Quintero
 
@@ -59,4 +59,4 @@ Portfolio: *Under construction...*
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkaiInku&layout=compact&theme=tokyonight)
 
-</main>
+</div>
